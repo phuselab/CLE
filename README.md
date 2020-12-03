@@ -1,6 +1,6 @@
 # Constrained Levy Exploration (CLE)
 
-![demo](demo_output.png "Model Simulation")
+![demo](img/demo_output.png "Model Simulation")
 
 ## Description
 
