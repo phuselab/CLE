@@ -22,10 +22,10 @@ $ python3 demo_CLE.py
 
 ## References
 
-1. Boccignone, G., & Ferraro, M. (2004). Modelling gaze shift as a constrained random walk. *Physica A: Statistical Mechanics and its Applications*, 331(1-2), 207-218.
+1. Boccignone, G., Cuculo, V., & D’Amelio, A. (2019, October). How to Look Next? A Data-Driven Approach for Scanpath Prediction. In *International Symposium on Formal Methods* (pp. 131-145). Springer, Cham.
 
-2. Boccignone, G., & Ferraro, M. (2013). Feed and fly control of visual scanpaths for foveation image processing. *Annals of telecommunications-annales des télécommunications*, 68(3-4), 201-217.  
+2. Boccignone, G., Cuculo, V., & D’Amelio, A. (2019, September). Problems with saliency maps. In *International Conference on Image Analysis and Processing* (pp. 35-46). Springer, Cham.  
 
-3. Boccignone, G., Cuculo, V., & D’Amelio, A. (2019, September). Problems with saliency maps. In *International Conference on Image Analysis and Processing* (pp. 35-46). Springer, Cham.  
+3. Boccignone, G., & Ferraro, M. (2013). Feed and fly control of visual scanpaths for foveation image processing. *Annals of telecommunications-annales des télécommunications*, 68(3-4), 201-217.  
 
-4. Boccignone, G., Cuculo, V., & D’Amelio, A. (2019, October). How to Look Next? A Data-Driven Approach for Scanpath Prediction. In *International Symposium on Formal Methods* (pp. 131-145). Springer, Cham.
+4. Boccignone, G., & Ferraro, M. (2004). Modelling gaze shift as a constrained random walk. *Physica A: Statistical Mechanics and its Applications*, 331(1-2), 207-218.
