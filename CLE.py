@@ -1,6 +1,5 @@
 import numpy as np
 from scipy.stats import levy_stable
-from skimage.draw import circle
 
 class CLE(object):
 
